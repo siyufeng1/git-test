@@ -10,5 +10,6 @@ public class Hello {
         System.out.println("syf 太牛逼了");
         System.out.println("syf nb");
         System.out.println("syf 太强了");
+        System.out.println("syf 太厉害了");
     }
 }
