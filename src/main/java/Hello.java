@@ -8,5 +8,6 @@ public class Hello {
         int c = 30;
         System.out.println(a + b + c);
         System.out.println("syf 太牛逼了");
+        System.out.println("syf nb");
     }
 }
